@@ -4,7 +4,7 @@ This is a comprehensive repository housing a data mining project focused on bank
 ## Project
 
 - **DataMiningNotebook:** A Jupyter notebook containing code for both association rule mining and classification.
-    - Code: [Link to Data Mining Notebook](path/to/your/notebook.ipynb)
+    - Code: [Link to Data Mining Notebook](https://github.com/faridasimaika/MarketingDataMiner/blob/main/Final_Notebook_DM.ipynb)
     - Report: [Link to Data Mining Report PDF](https://github.com/faridasimaika/MarketingDataMiner/blob/main/Data%20Mining%20Project%20Report.pdf)
 
 ## Key Techniques Applied
